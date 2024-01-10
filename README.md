@@ -1,9 +1,9 @@
 # Queen Page
 
-Bootstrap Music Band Web Page
+##Bootstrap Music Band Web Page
 
 
-Overview
+##Overview
 This project is a Bootstrap-based web page dedicated to a music band. It features a modern and interactive design, incorporating various sections like a carousel, band member information, album showcases, and contact details. The page utilizes Bootstrap for layout and responsiveness, Font Awesome for icons, and custom CSS for additional styling.
 
 
@@ -14,7 +14,7 @@ This project is a Bootstrap-based web page dedicated to a music band. It feature
 
 
 
-Features
+##Features
 Navbar: A responsive navigation bar with links to different sections of the page.
 Carousel: A dynamic image carousel showcasing band-related content with links to YouTube and Spotify.
 About Section: Provides information about the band, including history and members.
@@ -29,7 +29,7 @@ Back to Top Button: A convenient button to scroll back to the top of the page.
 
 
 
-Technologies Used
+##Technologies Used
 HTML5
 CSS3
 Bootstrap 5
@@ -46,7 +46,7 @@ No installation is required. You can run the project by opening the index.html f
 
 
 
-Usage
+##Usage
 Browse through the different sections to learn more about the band.
 Use the navigation bar to quickly navigate to various sections.
 Click on the album images to view them in a larger size.
@@ -66,6 +66,7 @@ This project is open-sourced and can be used as per the terms and conditions of 
 <div align="center">
 
   <img src="./img2/Animationqueen.gif"  width="90.5%" height="600" />
+  
 </div>
 
 
