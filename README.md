@@ -65,7 +65,7 @@ This project is open-sourced and can be used as per the terms and conditions of 
 
 <div align="center">
 
-  <img src="./img/Animationqueen.gif"  width="90.5%" height="600" />
+  <img src="./img2/Animationqueen.gif"  width="90.5%" height="600" />
 </div>
 
 
